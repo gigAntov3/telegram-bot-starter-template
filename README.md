@@ -14,7 +14,7 @@
 
 1. Клонируй репозиторий:
    ```bash
-   git clone https://github.com/your-username/telegram-bot-template.git
+   git clone https://github.com/gigAntov3/telegram-bot-starter-template.git
    cd telegram-bot-template
 2. Создание виртуального окружения:
    ```bash
