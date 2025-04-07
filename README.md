@@ -18,11 +18,15 @@
    ```bash
    git clone https://github.com/your-username/telegram-bot-template.git
    cd telegram-bot-template
+2. Создание виртуального окружения:
+   ```bash
+   python -m venv .venv
+   source .venv/bin/activate
 
-2. Установи зависимости:
+3. Установи зависимости:
    ```bash
    pip install -r requirements.txt
 
-3. Запуск проекта
+4. Запуск проекта
    ```bash
    python main.py
